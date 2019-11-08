@@ -37,16 +37,16 @@
 [Occupation](https://github.com/twinstae/pandas_exercises/tree/master/03_Grouping/Occupation)  
 [Regiment](https://github.com/twinstae/pandas_exercises/tree/master/03_Grouping/Regiment)
 
-### [함수_적용_Apply](https://github.com/twinstae/pandas_exercises/tree/master/04_Apply)
+### [함수_적용](https://github.com/twinstae/pandas_exercises/tree/master/04_Apply)
 [Students Alcohol Consumption](https://github.com/twinstae/pandas_exercises/tree/master/04_Apply/Students_Alcohol_Consumption)  
 [US_Crime_Rates](https://github.com/twinstae/pandas_exercises/tree/master/04_Apply/US_Crime_Rates)     
 
-### [병합Merge](https://github.com/twinstae/pandas_exercises/tree/master/05_Merge)
+### [병합](https://github.com/twinstae/pandas_exercises/tree/master/05_Merge)
 [Auto_MPG](https://github.com/twinstae/pandas_exercises/tree/master/05_Merge/Auto_MPG)  
 [Fictitious Names](https://github.com/twinstae/pandas_exercises/tree/master/05_Merge/Fictitous%20Names)  
 [House Market](https://github.com/twinstae/pandas_exercises/tree/master/05_Merge/Housing%20Market)  
 
-### [기술통계Stats](https://github.com/twinstae/pandas_exercises/tree/master/06_Stats)
+### [기술통계](https://github.com/twinstae/pandas_exercises/tree/master/06_Stats)
 [US_Baby_Names](https://github.com/twinstae/pandas_exercises/tree/master/06_Stats/US_Baby_Names)  
 [Wind_Stats](https://github.com/twinstae/pandas_exercises/tree/master/06_Stats/Wind_Stats)
 
