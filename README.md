@@ -16,18 +16,18 @@
 
 # 교습
 
-| [감 잡기](#getting-and-knowing)                              | [병합Merge](#merge)                                          | [시계열Time Series](#time-series) |
+| [감 잡기](#감_잡기)                              | [병합Merge](#merge)                                          | [시계열Time Series](#time-series) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
-| [필터링과 정렬Filtering and Sorting](#filtering-and-sorting) | [기술통계Stats](#stats)                                      | [제거Deleting](#deleting)         |
+| [필터링과 정렬](#필터링과 정렬) | [기술통계Stats](#stats)                                      | [제거Deleting](#deleting)         |
 | [그룹화Grouping](#grouping)                                  | [시각화Visualization](#visualization)                        | 색인Indexing                      |
 | [함수 적용Apply](#apply)                                     | [수열과 데이터 프레임 만들기 \Creating Series and DataFrames](https://github.com/twinstae/pandas_exercises#creating-series-and-dataframes) | 내보내기Exporting                 |
 
-### [감 잡기 Getting and knowing](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data)  
+### [감_잡기](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data)  
 [Chipotle](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)  
 [Occupation](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  
 [World Food Facts](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
 
-### [필터링과 정렬 Filtering and Sorting](https://github.com/twinstae/pandas_exercises/tree/master/02_Filtering_%26_Sorting)
+### [필터링과 정렬](https://github.com/twinstae/pandas_exercises/tree/master/02_Filtering_%26_Sorting)
 [Chipotle](https://github.com/twinstae/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Chipotle)  
 [Euro12](https://github.com/twinstae/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Euro12)  
 [Fictional Army](https://github.com/twinstae/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Fictional%20Army)
