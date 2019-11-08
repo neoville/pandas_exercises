@@ -23,9 +23,9 @@
 | [함수 적용](#함수_적용)                                     | [수열과_데이터_프레임_만들기](#수열과_데이터_프레임_만들기) | 내보내기Exporting                 |
 
 ### [감_잡기](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data)  
-[Chipotle](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)  
-[Occupation](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  
-[World Food Facts](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
+연습1 [World Food Facts](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
+연습2 [Chipotle](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)  
+연습3 [Occupation](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  
 
 ### [필터링과_정렬](https://github.com/twinstae/pandas_exercises/tree/master/02_Filtering_%26_Sorting)
 [Chipotle](https://github.com/twinstae/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Chipotle)  
