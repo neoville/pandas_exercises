@@ -1,19 +1,20 @@
 # Pandas Exercises
 
-Fed up with a ton of tutorials but no easy way to find exercises I decided to create a repo just with exercises to practice pandas.
-Don't get me wrong, tutorials are great resources, but to learn is to do. So unless you practice you won't learn.
+튜토리얼이 쏟아지고 있지만, 연습문제를 찾기는 쉽지 않다. 그래서 나는 오직 판다스를 연습하기 위한 저장소를 만들기로 했다. 오해하진 마시라, 튜토리얼은 훌륭한 자료다, 하지만 배움이란 직접 해보는 것이다. 연습하지 않으면 배울 수도 없다.
 
-There will be three different types of files:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Exercise instructions  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Solutions without code  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Solutions with code and comments
+파일은 세 종류가 있다.
 
-My suggestion is that you learn a topic in a tutorial, video or documentation and then do the first exercises.
-Learn one more topic and do more exercises. If you are stuck, don't go directly to the solution with code files. Check the solutions only and try to get the correct answer.
+      1. 연습 지침
 
-Suggestions and collaborations are more than welcome.🙂 Please open an issue or make a PR indicating the exercise and your problem/solution.
+      2. 코드 없는 해답
 
-# Lessons
+      3. 코드와 주석이 달린 해답
+
+튜토리얼이나 영상, 문서를 통해서 그 주제에 대해 배운 다음 첫 과제를 해보기를 권한다.  또 한 가지를 배우면 새로운 연습을 해보길 바란다. 막힐 때면 코드가 있는 해답을 본다. 한 번 해답을 보고 다시 올바른 답을 찾으려 시도해보면 된다.
+
+제안이나 협력은 언제나 환영한다. 이슈를 열고 너만의 문제와 해답이 담긴 PR을 만들어라.
+
+# 교습
 
 |				                                  |				                                   |                   |
 |:-----------------------------------------------:|:----------------------------------------------:|:-----------------:|
@@ -22,10 +23,10 @@ Suggestions and collaborations are more than welcome.🙂 Please open an issue o
 |[Grouping](#grouping)							  | [Visualization](#visualization)                |Indexing           |
 |[Apply](#apply)							      | [Creating Series and DataFrames](#creating-series-and-dataframes) 		            |Exporting|
 
-### [Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data)  
-[Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)  
-[Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  
-[World Food Facts](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
+### [Getting and knowing](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data)  
+[Chipotle](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)  
+[Occupation](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  
+[World Food Facts](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
 
 ### [Filtering and Sorting](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting)
 [Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Chipotle)  
