@@ -16,12 +16,11 @@
 
 # 교습
 
-|[감 잡기Getting and knowing](#getting-and-knowing)        | [병합Merge](#merge)           
-|[시계열Time Series](#time-series)                         |[필터링과 정렬Filtering and Sorting](#filtering-and-sorting)    
-|[기술통계Stats](#stats)                                   |[제거Deleting](#deleting)       
-|[그룹화Grouping](#grouping)			              | [시각화Visualization](#visualization) 
-|[색인Indexing                                             |[함수 적용Apply](#apply)					             
-|[수열과 데이터 프레임 만들기Creating Series and DataFrames](#creating-series-and-dataframes)|Exporting|
+| [감 잡기](#getting-and-knowing)                              | [병합Merge](#merge)                                          | [시계열Time Series](#time-series) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
+| [필터링과 정렬Filtering and Sorting](#filtering-and-sorting) | [기술통계Stats](#stats)                                      | [제거Deleting](#deleting)         |
+| [그룹화Grouping](#grouping)                                  | [시각화Visualization](#visualization)                        | 색인Indexing                      |
+| [함수 적용Apply](#apply)                                     | [수열과 데이터 프레임 만들기 \Creating Series and DataFrames](https://github.com/twinstae/pandas_exercises#creating-series-and-dataframes) | 내보내기Exporting                 |
 
 ### [감 잡기 Getting and knowing](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data)  
 [Chipotle](https://github.com/twinstae/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)  
